@@ -1,0 +1,17 @@
+# 1.Create a list of ten numbers and display the some of last four elements 
+num=[1,2,3,4,5,6,7,8,9,98]
+print(num[-1])
+print(num[-2])
+print(num[-3])
+print(num[-4])
+
+# 2.Remove the items From the list located at second and fifth position 
+number=[12,20,30,40,50]
+print(pop(1))
+print(pop(4))
+
+# 3.print the difference between highest and smallest list
+
+
+
+
