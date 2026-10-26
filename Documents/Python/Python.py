@@ -17,3 +17,4 @@ elif study_hours >= 2:
     print("Status: Good job! Keep going 💪")
 else:
     print("Status: Try to improve tomorrow 🚀")
+
